@@ -1,14 +1,14 @@
 body {
-background-color: black;
+background-color: white;
 
 }
 
 p {
-    color: white;
+    color: black;
     font-family:'Times New Roman', Times, serif;
 }
 
 h3, h4 {
-    color: white;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
 }
